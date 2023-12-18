@@ -1,0 +1,7 @@
+
+.input-field {
+    margin: 10px 0;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+}
